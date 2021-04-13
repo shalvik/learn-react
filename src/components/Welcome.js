@@ -7,7 +7,7 @@ const Welcome = (props) => {
     };
     return (
       <div>
-        <h1 title="Title expmpl" style={styles}>{props.message}</h1>
+        <h1 title="Titasdle expmpl" style={styles}>{props.message}</h1>
       </div>
     );
   }
